@@ -1,0 +1,12 @@
+{
+	"components":[
+		{
+			"name":"cp1",
+			"componentsName":"components1"
+		},
+		{
+			"name":"cp2",
+			"componentsName":"components2"
+		}
+	]
+}
